@@ -1,0 +1,15 @@
+version: '3' # specifies the version of the yml file, it's important to know that you're using version 3
+services:
+  # each service will be a container, specified in one paragraph below
+
+  tweet_collector:
+    build: tweet_collector/
+    volumes:
+      - ./tweet_collector/:/app
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo
+    ports:
+      - 27017:27017

@@ -1,0 +1,4 @@
+tweepy
+sqlalchemy==1.4.22
+psycopg2
+

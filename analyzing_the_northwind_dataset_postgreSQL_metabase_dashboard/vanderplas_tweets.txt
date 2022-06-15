@@ -1,0 +1,315 @@
+
+
+@kara_woo I took my youngest camping at 4 months. Pro tip: don�t do that
+
+On reflection, it�s pretty presumptuous to assume Monty Hall would open another door for you no matter what your first guess was
+
+Randomly thinking about the time when I was a postdoc that I gave a talk that went so badly that a few weeks later a grad student who�d been there recognized me in a bar and bought me a whiskey
+
+8 year old seeing this on the table: �woah daddy your name�s on this�. Wait, did you write a whole book?�
+
+New translation just arrived! https://t.co/tFaVQeCkCe
+
+@Ted_Spence So cool! I used to ride the C Line from the Junction to downtown most days
+
+I am unreasonably excited about the fact that my Sarracenia Alata is flowering for the first time https://t.co/4QLI5nOv1g
+
+Instead of year-round DST, let�s do year-round standard time but require work and school to start an hour earlier. It�s functionally equivalent, after all.
+
+@rgbkrk @JohnBauters @cw4emeryville @EmeryvilleCA @EvilleAlly So weird� I literally read this tweet while standing across the street from the building https://t.co/QVC5kvTUAm
+
+https://t.co/aOBX31ACzg
+
+@nhuntwalker Hey thanks for tweeting about this over the years� you inspired me: I finally got the app and I�m 3 weeks into the Spanish course now!
+
+@kara_woo I took my youngest camping at 4 months. Pro tip: don�t do that
+
+On reflection, it�s pretty presumptuous to assume Monty Hall would open another door for you no matter what your first guess was
+
+Randomly thinking about the time when I was a postdoc that I gave a talk that went so badly that a few weeks later a grad student who�d been there recognized me in a bar and bought me a whiskey
+
+8 year old seeing this on the table: �woah daddy your name�s on this�. Wait, did you write a whole book?�
+
+New translation just arrived! https://t.co/tFaVQeCkCe
+
+@Ted_Spence So cool! I used to ride the C Line from the Junction to downtown most days
+
+I am unreasonably excited about the fact that my Sarracenia Alata is flowering for the first time https://t.co/4QLI5nOv1g
+
+Instead of year-round DST, let�s do year-round standard time but require work and school to start an hour earlier. It�s functionally equivalent, after all.
+
+@rgbkrk @JohnBauters @cw4emeryville @EmeryvilleCA @EvilleAlly So weird� I literally read this tweet while standing across the street from the building https://t.co/QVC5kvTUAm
+
+https://t.co/aOBX31ACzg
+
+@nhuntwalker Hey thanks for tweeting about this over the years� you inspired me: I finally got the app and I�m 3 weeks into the Spanish course now!
+
+@kara_woo I took my youngest camping at 4 months. Pro tip: don’t do that
+
+On reflection, it’s pretty presumptuous to assume Monty Hall would open another door for you no matter what your first guess was
+
+Randomly thinking about the time when I was a postdoc that I gave a talk that went so badly that a few weeks later a grad student who’d been there recognized me in a bar and bought me a whiskey
+
+8 year old seeing this on the table: “woah daddy your name’s on this…. Wait, did you write a whole book?”
+
+New translation just arrived! https://t.co/tFaVQeCkCe
+
+@Ted_Spence So cool! I used to ride the C Line from the Junction to downtown most days
+
+I am unreasonably excited about the fact that my Sarracenia Alata is flowering for the first time https://t.co/4QLI5nOv1g
+
+Instead of year-round DST, let’s do year-round standard time but require work and school to start an hour earlier. It’s functionally equivalent, after all.
+
+@rgbkrk @JohnBauters @cw4emeryville @EmeryvilleCA @EvilleAlly So weird… I literally read this tweet while standing across the street from the building https://t.co/QVC5kvTUAm
+
+https://t.co/aOBX31ACzg
+
+@nhuntwalker Hey thanks for tweeting about this over the years… you inspired me: I finally got the app and I’m 3 weeks into the Spanish course now!
+
+Let me tell you about my least favorite emoji on Twitter. You’ll never guess what it is: 🧵
+
+European: "I know a bit of English" *
+  * can read Dickens without difficulty
+
+American: "I know a bit of Spanish" **
+  ** recognizes 100 words and can only speak in present tense
+
+@jnuneziglesias @Tyler_Reddy Thanks! It’s been fun to have the opportunity to think through all of this carefully - I hope the doc will be helpful to other projects!
+
+RT @jnuneziglesias: My God! The JAX type promotion documentation by @jakevdp is a work of art! Thanks to @Tyler_Reddy for pointing it out.…
+
+My best/worst idea is that instead of speed limits we should have momentum limits. “Hey congrats on your new F-950, your max speed in the city is 4mph”
+
+Hey look, JAX just passed 100000000000000 stars on github! https://t.co/YkerkKX0Wb https://t.co/FfToGPeVKn
+
+February 14th… that means it’s time to wish you all a happy Wayne’s World 30th anniversary https://t.co/gJb3kIFSns
+
+Example usage: https://t.co/kh8sI8r9Nr
+
+File under "code I would never use, but often dream about using"... https://t.co/EBbeV00vsn
+
+Recently I found that @github had silently created a spam issue in my name on my team's repository: https://t.co/6k0WQ2GZzA
+
+Seems like it's maybe related to their new enhanced task lists... does anyone have information about this "feature"?
+
+I wanted to get a PhD to gain a deep understanding of the mysteries of the universe. I did that a bit, but mainly got a deep understanding of weird things you can do with matrices https://t.co/J3XUQWQQf9
+
+Time for a coffee break... https://t.co/coa6aZglvu
+
+@pganssle One example: in JAX's core primitives, by convention positional arguments are traced &amp; keyword arguments are static. JAX makes heavy use of decorator-based function transformations, which can be implemented more generically by enforcing static arguments to be keyword-only.
+
+@craftworksxyz I think you're looking for symbolLimit: https://t.co/FQSGt7vDaf
+
+I’ve been growing this Mexican Butterwort (P. Esseriana) on my windowsill for almost two years - today it bloomed for the first time https://t.co/jQCl5NRErm
+
+RT @SciPyConf: The call for abstracts for #SciPy2022 is open! The submission deadlines for Talks and Posters is February 11 and February 15…
+
+RT @exoplaneteer: I'm excited to announce the first beta of a new Python package that I've been working on: https://t.co/5gWnLiOLeo
+
+It's (…
+
+RT @michaelwaskom: I have been working on some things lately.
+
+You may find them interesting.
+
+https://t.co/PR6xnVeEbB
+
+When you find a website with a tilde in the URL you know you got the good stuff
+
+Editing &amp; revision is never really complete until you develop a deep hatred of every word you've ever written
+
+RT @NASA: Two weeks after launch, @NASAWebb has hit its next biggest milestone: the mirrors have completed deployment and the next-generati…
+
+@therriaultphd I apologize for nothing
+
+Now playing: Master P's iconic data science ballad about the frustration of working with missing values in Pandas, "Make 'em say uhh! (uhh!) None NaN and NA"
+
+Found out today that my grandma’s famous holiday cookie recipe, which I always assumed was passed down through the generations, was actually one she got from my uncle’s high school girlfriend. Shattered.
+
+@drob Agreed! I ended up avoiding recursion for the explode function by constructing a depth-first list of nodes with pointers back into the original tree in order to mutate it when necessary... a bit hacky, but it worked.
+
+One of my favorite little plants in my carnivorous garden: Utricularia bisquamata. The flower is only about 5mm across, and the plant has subterranean traps that catch and digest tiny insects that live in the soil https://t.co/ktLjLPG0H1
+
+RT @jakevdp: https://t.co/eD15sK9fJn
+
+@bitpharma Thanks for saying that – no worries, and I hope to see you around the JAX community in the future!
+
+@powersoffour I’ve done 1-dimensional, 2-dimensional, aye, even 3-dimensional at times. But N has always eluded me.
+
+sure, I may have "old person hobbies" and I may use "outdated idioms", but I'll tell you what... my begonias right now are off the hook
+
+@davis_yoshida Oh, that's really nice! I didn't think about the possibility of dropping terms...
+
+@__mharrison__ Yeah, I used that formula for the linear search. What I'm talking about is a closed-form solution to $0 = d/dy \sum_{i=1}^N |y - x_i|(|y - x_i| + 1)/2$, to avoid the linear search.
+
+After solving it by linear search, I tried and failed today to find a closed-form solution for Advent of Code day 7. Part 1 is L1 loss, minimized by the median... Part 2 simplifies to basically a sum of L1 &amp; L2 loss and I'm not sure whether a closed-form minimum exists...
+
+@gvwilson I developed this one a couple years ago: https://t.co/wOnoUfm75Z
+
+Happy to chat if I can be helpful!
+
+RT @Michael_A_Kagan: Great job today by @lukasheinrich_ presenting our new work at #ACAT2021 on MadJax: differentiable particle physics mat…
+
+The secret is out https://t.co/HIj5nX9fkk
+
+The “hi, you put this code on the internet 15 years ago and I have questions” emails are the side of Open Science nobody tells you about
+
+@hspter Yeah, I had a feeling getting parenting advice from Home Alone was a bad idea
+
+Watching Home Alone this weekend with the family and... the whole idea of putting the kids in coach with their older cousin while the parents sit in first class is just brilliant
+
+@michaelaye But it sounds like maybe you're not concerned with rendering so much as data, and to that point it's true that Altair (and the vega ecosystem as a whole) is designed primarily around tabular data, not, say, multi-dimensional image data.
+
+@michaelaye All rendering lives outside of Altair. Altair is just a Python API for Vega, which you can read about at https://t.co/bmJE3GdhAO
+
+I believe the canvas renderer has been the default for some time now?
+
+@michaelaye Altair has had raster rendering available for several years via the canvas renderer.
+
+Re panel/holoviz: it's a phenomenal ecosystem, and you should keep using it if it works for you.
+
+Playing around with the Altair 4.2 release candidate, re-creating one of the more important charts of our time https://t.co/c6OO1pk4dC https://t.co/WAmByimpVq
+
+We just pushed a new release candidate for Altair, making available a number of new chart types &amp; features: https://t.co/4wuekHbvQ7 Give it a try, and let us know what you think!
+
+pip install altair==4.2.0rc1 https://t.co/CrDCVXbABx
+
+@trenton_data I've found that for carnitas, the combo of smoking and braising makes the meat really tender and flavorful
+
+The finished product. 10 minutes prep in the morning, 10 minutes mid-day, and 40 more minutes in the evening. Working from home rocks https://t.co/ccn6cjrq6u
+
+It fell off the bone… https://t.co/74OUwJJcsl
+
+@crobison Just the result of mix &amp; match/trial &amp; error over the years. Basic idea:
+- smoke the pork shoulder for ~4hrs at 225F
+- cook in dutch oven for ~3hrs at 350F with onions, peppers, spices &amp; orange juice
+- drain, chop into hunks &amp; fry quickly in hot skillet
+- enjoy your Taco Tuesday
+
+Finished smoking, now into the Dutch oven for a few more hours https://t.co/yjQCHN997f
+
+One of my favorite parts of working from home is that I can start cooking dinner at 9am on any random weekday https://t.co/7CxHh7ZfsY
+
+@asmeurer What, you don't make all your imports PEP484 re-exportable?
+
+@JoshGhalgh Sure, I could use xonsh, but then I wouldn't have these adventures
+
+I sometimes accidentally type Python code into a shell prompt... like "import numpy as numpy" (-&gt; bash: import: command not found)
+
+It got me wondering... what's the worst damage I could do by inadvertently running an innocuous line of python in a standard bash shell?
+
+@dstndstn @exoplaneteer @astropy I once thought about writing an April 1st paper called "the tools used to write this paper" that would basically just be a paragraph with a figure plus pages of software citations...
+
+@exoplaneteer @astropy I think my favorite example of this is the discrepancy in citations between the main scikit-learn paper (~47,000) and the main numpy paper from the same year (~8000).
+
+ It is impossible to use scikit-learn without also using numpy. And yet...
+
+@_inundata @choldgraf Oh man, there are only like 2 non-chain coffee shops open in the entire east bay at that hour… and I often go to them
+
+@choldgraf Careful, that’s the turning point: your body gets used to it and there’s no going back… it’s why all dads everywhere fall asleep on the couch at 8:30 every night trying to watch their show
+
+Morning people view the end of DST the same way gym regulars view the week before spring break: see all these new faces? Guaranteed they’ll be gone by this time next week.
+
+@Machine1235 @GoogleColab @SingularMattrix Can you open an issue in the JAX repo?
+
+RT @gordic_aleksa: Kicking off a new video series on JAX!🥳
+
+YT: https://t.co/0Urka0XgYA
+
+I also open-sourced the accompanying repo (contain…
+
+@mtoddf Thornhill closed last summer, unfortunately. They were replaced by https://t.co/ORafGryDqG, which has a similar feel
+
+On a whim yesterday I put a few empty storage bins out in the driveway to collect some rain water for my house plants
+
+I’m… gonna need more house plants https://t.co/bHmYrUIVyZ
+
+One of the most fulfilling parts of working on a tool like JAX is seeing the incredible things people build with it. Great work @sokrypton &amp; colleagues! https://t.co/tbBJJnHke1
+
+I witnessed some sort of mass hatching in my back yard today. Anyone know what these are?
+
+(Apologies for the shaky camera work… they were landing on my face) https://t.co/PxdHCaC7Xi
+
+Me doing test-driven development: Haha fuck yeah!!! Software engineering! Yes!! 
+
+Me trying to get the tests to pass: Well this fucking sucks. What the fuck.
+
+@AstroBrigi That's awesome 😁 Looking at the date, I think that may have been my last run in Seattle... we left for California the next day
+
+@rareblog That's great - thanks for sharing!
+
+@reneehlozek Congrats! So well-deserved
+
+@paul_rietschka They do reproduce by seed (I posted a photo of the flowers earlier this summer here: https://t.co/B5UdTdGegR) But this particular baby plant I propagated from a stem cutting.
+
+@naivebayesian Yeah, I took it with my iPhone camera
+
+Baby Venus flytraps might be the cutest little plants I’ve ever seen (dime for scale) https://t.co/K5awW38YBF
+
+@aureliengeron @ayhanfuat Glad you mentioned this... I really should update the blogpost to mention these magic functions (which were added as a consequence of the post!)
+
+@exoplaneteer I often point people to the StackOverflow "How to create a Minimal, Reproducible Example" page: https://t.co/d62pTGHGFn
+
+@jegpeek @astronomeara @jradavenport All the best tweets are under-appreciated in their time
+
+Every one of my github repositories that's more than a couple years old https://t.co/v3JvRZYBSF
+
+@ericholscher Enjoy! That Enchantments through-hike is incredible.
+
+"hey man, I like your shirt!"
+"thanks! I got it for $2 in 2004"
+"dude!"
+"dude."
+
+...is a conversation I imagine having every time I put on this shirt.
+
+RT @LBNLcs: As @ProjectJupyter Celebrates 20 Years, Fernando Perez (@fperez_org) Reflects On How It Started, Open Science’s Impact and the…
+
+RT @Jeande_d: Python Data Science Handbook is a fantastic and in-depth data science book that is entirely available online. 
+
+For free! 
+
+I…
+
+Enjoying the art around the neighborhood this morning https://t.co/s3K1rmRALF
+
+@itsafronomics It’s nectarine season and my 4yo is still working on words so she wakes up every morning and asks for some submarines and Cheerios
+
+RT @DynamicWebPaige: 🥳 Am excited to share that we have released https://t.co/AIqjEKH3OL: a completely in-browser @github+@code editing too…
+
+my fall plans:            the delta variant: https://t.co/pfNY0RJwK7
+
+@unsorsodicorda Thanks!
+
+@unsorsodicorda I have a few D. Capensis already - they’re currently blooming! https://t.co/NroekD3DTz
+
+New carnivorous plant species confirmed!
+
+I love the experiment they used to confirm this: fed Nitrogen-15 isotopes to fruit flies, stuck the flies to the stem of the plant, and later found the same isotopes in the plant itself.
+
+https://t.co/GHwUn3LWFG
+
+@cosmo_bruce oops, I should have taken one more step: 6210001000
+
+@cosmo_bruce What a fun puzzle!
+
+I started with 0000000000
+Then 9000000000
+Then 8000000010
+Then 7100000100
+Then 7210000100
+...which I think is finally a valid answer
+
+My pandemic hobby:
+
+How it started               How it's going https://t.co/RsYwS492fz
+
+The phrase “I’m pretty conservative about wearing masks” is it’s own opposite, meaning it may serve as an additive identity in a properly constructed group Gₚ spanning a subset of modern political discourse. In this paper I will
+
+@kara_woo I took my youngest camping at 4 months. Pro tip: don’t do that
+
+On reflection, it’s pretty presumptuous to assume Monty Hall would open another door for you no matter what your first guess was
+
+Randomly thinking about the time when I was a postdoc that I gave a talk that went so badly that a few weeks later a grad student who’d been there recognized me in a bar and bought me a whiskey
+
+8 year old seeing this on the table: “woah daddy your name’s on this…. Wait, did you write a whole book?”

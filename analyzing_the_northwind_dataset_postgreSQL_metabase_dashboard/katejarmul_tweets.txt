@@ -1,0 +1,295 @@
+
+
+Again, we are confronted with  "neutral technologies", like facial recognition and license plate tracking, that end up recreating systems of oppression and inequality. And the linked question: will we decide to actually regulate these technologies? 🤔
+
+https://t.co/jQolLt2tlo
+
+They work directly with Mercedes Benz and BMW (and supposedly several other car companies).. so if you own one of those cars and live in Europe, you can make a formal GDPR complaint as well!
+
+https://t.co/EdHQZKwjOv
+
+Interesting lawsuit for the California Privacy law -- vehicle data being collected without consent. Supposedly this company also operates in Berlin and used to have the personal location data freely available for download on their website... 😣
+
+https://t.co/2U5CvQMvVJ
+
+This is the way that privacy ends up eroding for us all, but it is unequal in who benefits and who suffers.
+
+Let's all take a stand in saying that security via unbounded data collection is a Bad Idea, and that there are better (yes, more difficult!) ways to make our lives safer.
+
+When privileged folks (like myself) partake in this type of security theater (ahem, Amazon Blink), we reinforce the idea that more data collection == more security. We also feed data into systems that disproportionately affect already targeted communities.
+
+Facial recognition and surveillance systems are an obvious example. There are less obvious ones too - gait detection, AI to determine "anomalous" online behavior, ranking systems for "gangs" and "criminals". 
+
+Often these systems target and affect the most vulnerable populations.
+
+A lot of people tell me that more security also means more privacy (and vice versa), but this ignores the fact that the "security" community makes quite a lot of money violating privacy. 
+
+https://t.co/Z3NfGuaQiJ
+
+Tomorrow I'll be presenting on privacy and security testing in CD4ML (continuous delivery 4 ML). 
+
+?s:
+
+- What should I test in relation to security as part of my MLOps?
+- How can I start thinking about privacy as part of ML workflow?
+
+Sign up link here: https://t.co/NhsRPAXDzr
+
+You can learn a lot from reading marketing materials for "security" companies. 💫
+
+Excellent thread and article on the type of companies entering schools for security theater / surveillance. https://t.co/jtF7IU3Fj5
+
+I kinda wanna go to Berghain this weekend just because they bounced Elon.
+
+Lawmakers make law to protect a group online. 
+
+Technologists laugh because "haha, government doesn't understand how tech works!"
+
+Enforcement begins, laughter subsides, technology adapts. 😌
+
+https://t.co/1a0co0ZLA1
+
+As pointed out in this thread, corporate surveillance leads to more government surveillance (and vice versa). When large tech companies are allowed to spy on us in exchange for services, it creates pressure for governments to do the same! Not a good future for anyone involved. https://t.co/CTogw2rMQ6
+
+@blakedot_ @networkservice To learn more, I recommend reading the Netflix attack, the is census reconstruction attack and the research that started Cambridge analytica! :)
+
+@blakedot_ @networkservice Unfortunately aggregation does not equal anonymization. Due to ways we can slice, combine and infer details from data, any data released in aggregate leaks private information.
+
+If you have a data flow dataset that I can use, I could likely devise several reidentification attacks
+
+@ThomGavinKaye If you're looking for obscurity, a cloud browser is not it. It would actually be a huge signal in data.
+
+@sergedroz @woodyatpch I meant that website operators know your device, which is usually fairly unique. And your ISP can easily combine data with other sources (just using a VPN makes you more identifiable in data / machine learning)
+
+I'm investigating some side ideas on how someone (or all of us) can use the internet more privately. It might end up being a project. If you want to stay tuned or know someone I should talk to, let me know! :)
+
+And, unfortunately, netflow data (or how traffic traverses the internet) is now a new data source to sell. This is super dangerous, because it means there will be ways to see how we all use the internet as well as single out particular flows... :( https://t.co/ckjk5OOcxX
+
+A lot of people believe VPNs help them obtain privacy, but that is generally a misconception. A few reasons why:
+
+1. Your ISP still has your data
+2. Your browser still has your data
+3. Your device is still your device, even if it has a new "location/address".
+
+Note: I do want to point out that this article / repo is still building a facial recognition system, which are often used directly to violate privacy and surveil persons without their consent. 😐
+
+This is in opposition to data where we learn on real datasets, of real people, often collected without consent and then make "synthetic data" that often leaks private information! 
+
+See: https://t.co/D7idLIN9EF for more.
+
+This tidbit is great:
+
+Since we sample parts of our model independently, we sometimes get unusual (but not impossible) combinations, such as feminine faces that have a beard.
+
+We should create more ACTUALLY synthetic data that looks like worlds we DO and want to exist in. :)
+
+So excited to see work like this, that generates fully synthetic data, not real data disguised as synthetic!
+
+They built programmatic creation of faces, skin tones, hairstyles and clothing, producing realistic looking "people" who actually do not exist.
+
+https://t.co/6QLCXr9Wzq
+
+Better security will always derive from bottoms-up approaches, not top-down control. 
+
+Building tools with privacy built in will always grant trust where it should, on the user level. 
+
+Final note: stop spying on your employees. It's not going to work out the way you think.
+
+One theory on Okta attack vector is that their own surveillance software opened a pathway for superuser access. 
+
+Another win for privacy-first design to holistically offer better security than an Orwellian approach, where "security" comes via control tower surveillance. https://t.co/byAgDN4DqJ
+
+Until the incentive system is changed, this will continue to happen. Until we demand that our governments do not surveil ANYONE, then this will continue to happen. So long as we say we have nothing to hide, other people will not have choices on hiding.
+
+Just like with ClearviewAI (or Facebook, really), someone has an idea that is "innocuous" sounding. They get funding and build out a team or product. Someone asks them, well can this be used for [insert surveillance use case]? Boom. Pivot. Profit. Repeat.
+
+You cannot make this stuff up. A company that was building software / hardware to track cattle is now working with ICE on immigrant surveillance. This pivot is not the first or last we'll see in surveillance tech, where unsafe ideas become profitable.
+
+https://t.co/2dAdHQwT5O
+
+RT @timnitGebru: From 2019,
+
+"Each society has to find the its own balance between security and privacy," says Kanga. "Ask victims of terro…
+
+@ystvns @anabmap @Cyn_K @CJPiovesan @KristenThomasen Very excited to hear what comes out of this! 🥳
+
+@WolfieChristl Do you know if this is the case for most VPNs? I haven't read through many VPN privacy policies but would be very interested to know the distribution there! (Maybe a cool cracked labs report? :) )
+
+I recommend that we replace reviewer #2 with a rotating array of first graders. https://t.co/gkgtehGSNO
+
+@moyix https://t.co/NjEMMAwajT
+
+Accessibility pros: What is the best way to image-caption graphs and charts for data science purposes? I am curious whether there are best practices when thinking through things like distributions, histograms, comparative charts for both. Thank you in advance for pointers!
+
+@ustoll Happy to chat! Feel free to DM me or reach out on LI to schedule! :)
+
+@ustoll It's working for me on a local system I've been building, based on simple NLP models. Next step is exploratory algorithm integration. So far no problems for what I actually care about / want to read and the privacy and control I get from decentralized is my main priority.
+
+@ustoll My definition of a powerful recommender is a hyper-local, personalized one (i.e. that I own and build and rebuild as I desire).
+
+@ustoll Cool! Will there be an open-source release that can work without communicating to a central server?
+
+if already have one - plz send link or description! :)
+
+If you had an open-source tool to build your own private personalized content recommender, but you need to:
+
+- curate a few content sources
+- curate a few keywords
+- use an interface to say whether a piece of content is interesting or not
+
+would you use it?
+
+@blakedot_ @PoolpOrg I'm very open to suggestions! Currently it's looking pretty grim in terms of options and integrations. Another goal is to not have to figure out how to host my own relay... but I'm guessing that's obvious 😅
+
+@Ghost  - if someone wanted to use Ghost and a EU-based bulk mail service (not Mailgun, not SES) without syncing databases (for privacy and data sovereignty reasons), where could they get started? Is there a good place in the code / integration to look?
+
+@technige @ProtonMail I think they don't offer SMTP relay as a service -- only to folks who have email accounts. That said, I could always just move my DNS email registry to them and use their service then as a relay. 
+
+Do you use them with your own domain?
+
+Ultimate goal would be:
+
+- Data hosted in Europe
+- Data minimization built in (i.e. I can hold the emails, the service just does the send)
+- Reasonable prices for small amount of emails per month (&lt;$30/mo if possible)
+- Clear privacy policy and data processing agreement
+
+Ask: Does anyone know of a privacy-first SMTP Relay or Email Service Provider that has scaled pricing or reasonable costs for a small newsletter. 
+
+Trying to get my newsletter, Probably Private: https://t.co/JeoG2YX8a0 back up and running, but so many email data protection woes!
+
+Stop #PutinsWar ☮️ https://t.co/R7UdUiiZpM
+
+As an Ami living in former East Germany, the significance of Russian invasion of Europe feels massive. Berliners I know who grew up in the East are tough, resilient, strong. I don't doubt it's a coping strategy shared by Ukrainians. 
+
+Time to show solidarity and 🖕🏻 the Oligarchy. https://t.co/cAlQkzRATh
+
+Federated deployments aren't *just* for privacy. They can also assist with technical limitations. I spoke with edge computing experts at QCon to explore how federated learning can help with edge compute problems! :) https://t.co/fKBGbIohjf
+
+Man kann Berlin Flughafen viel kritisieren, aber die Badezimmer Warenautomaten sind einzigartig. https://t.co/RN6uB66QfY
+
+@navatintarev @MagicHerb @huggingface Found it! https://t.co/fpb4p4TIss
+
+@CZauchner @hackingPolitely Bookmarking this to check it out, thank you! 🙏🏻
+
+@navatintarev @MagicHerb Both of these are great references, thank you!! It was actually more about the EDA step with cool visualizations for class imbalance iirc. I'm now wondering if it evolved into something else...? Maybe it was an MVP of one of these products? 🤔
+
+@tymwol This is neat, thanks!! but not what I meant. The one I used was focused on data viz for the data itself... I. E. How do we better visualize the biases (and variance and skew) in your data. I think they had some visualizations with clustering or other ways to show class imbalance
+
+Please help me find a thing! About 4 years ago, Google announced a tool that could easily visualize tabular data and point out things like bias in class distribution, outliers and other potential "ethical risks". Do you remember this tool too? What was it called? Thank you!
+
+Feel free to ping me if you want more details or to chat about why I chose @thoughtworks! And keep me updated if you are building tools and technologies or publishing research I should have my eye on... 🕵️‍♀️
+
+Joining @EmilyGorcenski's team also means this is the first time I am reporting to a woman! Her work has long been an inspiration for me (and many others). 🥲
+
+(note: ThoughtWorks technically doesn't have a hierarchical reporting structure, but she is running the service line!)
+
+Today marks the end of my first week as Principal Data Scientist at @thoughtworks! I am extremely excited to be here. I'll be helping customers deploy privacy technologies at scale and deepening Privacy by Design for our data and software offerings. 🎉
+
+RT @PyConDE: 👀👉FIVE Days left: the CfP closes Friday Dec 24. 🌟
+
+https://t.co/iJ0Nhf96D0
+
+Later today I'm going to be talking live with two extremely cool people about privacy, ML, NLP and trustworthiness. If you don't have other plans, now you do... 😜 https://t.co/BJtobnDQlB
+
+@__zero323__ https://t.co/o6CTlChPI0
+
+From https://t.co/o2CSMgDT6H which is so far fairly interesting, regardless if some of the chapters are a bit dated.
+
+Image text: Pie Chart showing 54% Smart card inserted upside down, 23% Unplugged reader, 15% Smart card partially inserted, 8% Smart card not inserted.
+
+I feel like this graphic is a meta-level testament as to why most security is broken. https://t.co/AFSoOadp7t
+
+@nathan_xones @hendorf ah, interesting! I somehow was under the impression vision folks were not using ImageNet anymore due to privacy and ethical concerns. I also was under the impression it was "very old". Just goes to show you learn something new every day. :)
+
+Had some fun today playing with https://t.co/ls8vMaVjBB - See my attached "trading cards" 😜 
+
+I am very curious about the training data (I'm guessing Google Image Search?)
+
+Also curious to hear @hendorf's take... :) https://t.co/axwfToyM7G
+
+Ich war heute in einem Interview und hab mich zufällig entscheiden auf Deutsch zu präsentieren. Dann kam mein Flowchart in der Präsentation. 
+
+"Und hier habe ich ein... erm.... Denkpfad gebaut..."
+
+Warum ist es immer die einfachen Worte?? 😂
+
+If you or anyone you know is working on either a) or b) (or is at a platform that is actively making progress), I'd love to read more and hear what is the latest. However, I do think until we change product incentives, we will end up playing whack-a-mole for quite a bit longer..
+
+One note I had to myself from now 3 or so years ago is: a) how misinfo/disinfo can become as commonplace w/in security as fighting spam and b) how we can denormalize the dark patterns that help make it spread (i.e. engagement KPIs!). (6/x)
+
+No one is unsusceptible, because the types of things that help it spread are wonderful things about humans. Our ability to see connections, reinforce our own analysis and trust the people around us. I don't want us to lose these qualities either! (5/x)
+
+Because we no longer have local news and basic trust in institutions is at an all-time low, disinfo moves beyond the fringes and into mainstream and becomes "normalized". US-exported rugged individualism makes every person fight for their own "truth". (4/x)
+
+When we combine well-known frames with "engagement-driven" products, we create fertile ground for information disorders. Short-term OKRs permeate our internal decisions and create short-term goals and shortcuts that reinforce dark patterns in our designs/algos/products. (3/x)
+
+This is not just due to the current political "crisis" in Poland, but also because this type of information warfare and the spread of information disorders has become so commonplace and "normal" that I can find links to these techniques on a daily basis. (2/x)
+
+I'm reading through notes I made more than two years ago on disinformation campaigns in Poland and it pains me to say it feels like these notes could have been made yesterday. (1/x)
+
+@bookingcom I share this so that if you have a booking account, you know that likely the password database has been breached. And the security is broken. My advice: delete your account. 👍🏻
+
+I've been contacting @bookingcom for two days about fraudulent usage of my account and nothing has been done. I have already: updated password, removed card, logged out all sessions and the person is still making bookings. Security, what? 🙃
+
+Deutschsprächige Freund:innen - was nutzt Du, wenn Du ein Dokument grammatisch überprüfen willst? Gibt es eigentlich auch Betriebe, wie Grammarly, die sehr gut mit Deutsch funktionieren?
+
+Morgen euch, wenn Du Deinen Sonntag denkend beginnen willst, bitte mit Professor Weizenbaum. Ich frage mich selber, was er heute über das Thema sagen würde… https://t.co/7itGnuDs7h
+
+To be fair, I’ve been on a serious bossanova and Brasilian jazz kick, currently blasting this, happy Friday everyone 🥰 https://t.co/iuetOY08rK
+
+Someone help me try to reverse engineer this recommendation system 🤣 https://t.co/WHIdun0U7M
+
+@suzyjstyles @arthaey Thanks for the tip! There definitely are a few interesting groups with that hashtag. 😍
+
+In case you are thinking of rage-replying, you must first read this article. There will be a quiz. 🤭
+
+https://t.co/dllvGc0Wgn
+
+Continually amazed by technological hubris. The entire policing system in most places is biased with histories of corruption being commonplace. Yet, as technologists, we presume we can fix it with "unbiased" algorithms. Mindblowing what a little math can do to your confidence.
+
+@jjviana I might want a tour of this one day!! 😊
+
+@fishnets88 I love the idea of writing it as soon as you learn it! Thanks for sharing 🤗
+
+@badgermind @diigo @BearNotesApp @ulyssesapp How often do you review your notes? Do you have a tagging or other organization process? Thanks for sharing!
+
+My old process: Overreliance on my brain to do the hard work. Collected links in random places, saved email exchanges and 100s of pages of "notes" in long documents. Yes, I still am somehow able to write and think and present.
+
+New method: testing out a modified Zettelkasten...😅
+
+What note-taking system / process do you use? How do you use it to write/think? Self-built and modified or do you follow a particular method?
+
+(I am certain that some of you will have extremely helpful responses to this, please consider writing them down in a doc for others!)
+
+@SwartzCr Thank you for the recommendation! 🤗
+
+To all the math graduate school graduates I know: How did you choose what type of math you wanted to study further? What was the aha moment that inspired you to specialize in a particular type of math?
+
+@jhajagos Thanks for the recommendation! Looks like a fun parallel read 🙏🏻
+
+@juanitorduz I love this idea 😍
+
+So far I have had questions that pointed me to reflecting on Euclid's elements. Am I heading in the right direction? 🤔
+
+(cool fact: I am also studying Greek! Maybe one day I can read the original 😅 )
+
+So I am having a blast going through Strang's Linear Algebra book, but I keep wanting to read the proofs as to why some things work the way they do. When someone wants to learn WHY (or exactly how) linear algebra works, where do they go next?
+
+@jeremyjkun Thank you, this is super helpful input 🤗
+
+@jeremyjkun Is it ever practical (from your perspective) to look at research and other trends to help guide thinking on unsolved problems? As in, there are a few clear "there aren't industry wide best practices, so here's some ways to think about the problem from research"...
+
+2. Where is the line between practical advice and teaching someone how to think about the problem in new ways? If you picked up a book that was called practical, what would you expect?
+
+Two questions that I've been pondering that I need feedback on:
+
+1. Have we reached a point in tech culture where folks in technology realize that the "soft" parts of the problem are also the "hard" parts? Example: creating a culture of privacy is just as hard as implementing DP
+
+@osslate @jpetazzo Great idea! I might bug @plaindocs to see if he knows anyone… 🤗
+
+@jeremyjkun Let’s do it!! Do you know anyone else who’s interested? 😊
+
+@adamgordonbell @bloggingfordevs I know a few friends who do creative writing circles. They use them to run writing exercises, talk about problems they are facing with their writing and strategies for managing them, provide peer reviews and feedback. It’s like group therapy and coaching, but just for writing 😅
+
+@osslate @jpetazzo Thanks for the tip! Do you know if they have folks that focus on book writing rather than documentation? 🤔

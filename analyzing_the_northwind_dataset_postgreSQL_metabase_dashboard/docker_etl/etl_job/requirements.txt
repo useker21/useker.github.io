@@ -1,0 +1,6 @@
+pymongo
+sqlalchemy==1.4.35
+psycopg2==2.9.3
+pandas
+vaderSentiment
+

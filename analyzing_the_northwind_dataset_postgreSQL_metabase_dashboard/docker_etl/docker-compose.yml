@@ -1,0 +1,53 @@
+version: '3' # specifies the version of the yml file, it's important to know that you're using version 3
+services: # each service will be a container, specified in one paragraph below
+    
+    tweet_collector:
+        build: tweet_collector/
+        volumes:
+        - ./tweet_collector/:/app
+        depends_on:
+        - mongodb 
+    
+    postgres: 
+        image: postgres
+        ports:
+        - 5555:5432 #mapping 5555 from my localhost to 5432 in the container
+        environment:
+        - POSTGRES_USER=postgres 
+        - POSTGRES_PASSWORD=postgres
+        - POSTGRES_DB=postgres
+              
+    mongodb:
+        image: mongo:latest
+        ports:
+        - 27018:27017
+    etl:
+        build: etl_job/ 
+        volumes: 
+        - ./etl_job/:/app
+        depends_on: 
+        - postgres 
+        - mongodb
+        
+    
+    metabase:
+        
+        image: metabase/metabase
+        ports:
+        - 3000:3000
+        depends_on:
+        - postgres
+
+        volumes:
+        - ./metabase/:/metabase
+        environment:
+       
+            MB_DB_TYPE : postgres
+            MB_DB_DBNAME : postgres
+            MB_DB_PORT: 5432
+            MB_DB_USER : postgres
+            MB_DB_PASS : postgres
+            MB_DB_HOST : postgres
+            MB_DB_FILE : /metabase/metabase.db
+    
+        

@@ -1,0 +1,19 @@
+version: '3' # specifies the version of the yml file, it's important to know that you're using version 3
+services: # each service will be a container, specified in one paragraph below
+    luftdaten_collector: # name of the first container
+        build: luftdaten/ 
+        volumes: 
+        - ./luftdaten/:/app_folder 
+        depends_on: 
+        - mypg 
+    mypg: 
+        image: postgres
+        ports:
+        - 5555:5432 #mapping 5555 from my localhost to 5432 in the container
+        environment:
+        - POSTGRES_USER=postgres 
+        - POSTGRES_PASSWORD=postgres
+    
+         
+    
+        
