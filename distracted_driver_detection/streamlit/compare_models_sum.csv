@@ -1,0 +1,11 @@
+#,model,validation accuracy,prediction prob,training accuracy,total parameters,dataset size,optimizer,epochs,scaling
+1,CNN,0.731,0.739,1.000,13M,10%,Adam,50,No
+2,CNN,0.735,0.715,0.990,13M,10%,Adam,50,No
+3,CNN,0.978,0.971,1.000,1.2M,10%,Adam,50,No
+4,CNN,0.994,0.980,0.999,1.2M,100%,Adam,50,No
+5,CNN,0.920,0.922,1.000,13M,10%,SGD,50,No
+6,CNN,0.907,0.886,1.000,13M,10%,SGD,50,No
+7,CNN,0.909,0.938,1.000,13M,10%,SGD,50,Yes
+8,CNN,0.995,0.995,1.000,13M,100%,SGD,50,Yes
+9,MobileNetv2,0.889,0.889,0.717,2.3M,10%,SGD,50,Yes
+10,VGG16,0.909,0.909,0.696,15M,10%,SGD,100,Yes
