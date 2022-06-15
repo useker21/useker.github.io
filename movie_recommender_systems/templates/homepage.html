@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Frog Movie Recommender</title>
+    
+</head>
+
+<body>
+  
+    <h1 style="color:white;font-size: 70px; text-align: center;" >Welcome to Mr. Frog movie recommerder</h1> 
+    <p style="color:white;font-size: 30px; text-align: center;">This is our amazing random fenugreeks movie-recommender</p>
+
+    <p style="color:white;font-size: 30px; text-align: right;">Rate the following movies on a scale of 0-5:</p>
+
+    <style>
+      body {
+        background-image: url('../static/images/frog.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      </style>
+    
+    <form action="/recommendations" style="color:white;font-size: 30px; text-align:right;">
+      
+        {{movie_1}} :<input type= 'text' name="movie_1" placeholder="0-5"><br>
+        {{movie_2}} :<input type= "text"  name="movie_2" placeholder="0-5"><br>
+        {{movie_3}} :<input type= "text"  name="movie_3" placeholder="0-5"><br>
+        {{movie_4}} :<input type= "text"  name="movie_4" placeholder="0-5"><br>
+        {{movie_5}} :<input type= "text"  name="movie_5" placeholder="0-5"><br>
+
+        <label for="models">Choose a model:</label>
+
+        <select class="custom_select"  style='width:200px' name='model'>
+          <option value="Cosim">Cosim</option>
+          <option value="NMF">NMF</option>
+          <option value="Most_Popular">Most_Popular</option>
+          <option value="Random">Random</option>
+        </select>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+
+
+</html>

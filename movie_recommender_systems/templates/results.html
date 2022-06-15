@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+</head>
+<body style="color:white;font-size: 50px; text-align: right;">
+
+    <style>
+        body {
+          background-image: url('../static/images/frog.jpg');
+          background-repeat: no-repeat;
+          background-size:cover;
+         
+        }
+        </style>
+
+    <h1>Mr. Frog Movie Recommender</h1>
+     <p>There are five movies that make your popcorn delicious:<p>
+     <p>
+        
+         {% for movie in recommend_movie_list %}
+         <li>{{ movie }}</li>
+         {% endfor %}
+        
+     </p>
+     <p style="color:white;font-size: 50px; text-align:right;"> Click <a href="/" style="color:white"> here</a> to back.</p>
+</body>
+</html>
